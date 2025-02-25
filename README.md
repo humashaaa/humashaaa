@@ -3,7 +3,7 @@
 )
 <h1 align="center">Hi, I'm Humashaa</h1>
 <h3 align="center" margin-bottom='20px'>A Front-End Developer from Bangladesh who brings web applications to life with captivating designs and seamless functionality using JavaScript, React.js, HTML, and Tailwind CSS.</h3>
-<img align='right' alt='coding' width='400' src='https://camo.githubusercontent.com/ef493fc5d4b1a380140886020bd0c0fc2bed142c88019bde3033b06222000ad0/68747470733a2f2f632e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966'>
+
 
 - 💬 Ask me about **React, Javascript, Tailwind CSS**
 
